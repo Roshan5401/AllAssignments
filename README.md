@@ -2,5 +2,9 @@
 Jsp & Servlet assignment is done here
 The folder is attached algo with the output screenshots.
 
-![Screenshot (30)](https://user-images.githubusercontent.com/68680320/218255739-f624a481-c629-4150-9844-7b8acd84d32c.png)
-![Screenshot (31)](https://user-images.githubusercontent.com/68680320/218255741-834980f1-c1de-43dd-9fb0-974cc3b3582e.png)
+The code was run from HelloServlet and as soon as it is run it will fire the main.jsp file
+![Screenshot (108)](https://user-images.githubusercontent.com/68680320/218266389-1a3a5149-3ba1-41fc-a57f-fbc1834e2823.png)
+
+after the submit button is clicked the main.jsp will fire the submit.jsp
+Calculation of the interest is done by the help of SimpleInterest class.
+![Screenshot (107)](https://user-images.githubusercontent.com/68680320/218266379-5cbde897-5ccf-4137-8203-b2643096b82d.png)
